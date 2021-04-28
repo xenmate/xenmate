@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xenmate
-- 👀 I’m interested in DevOps and Splunk
+- 👀 I’m interested in Technology
 - 🌱 I’m currently learning lots of stuff
 
 <!---
